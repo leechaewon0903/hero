@@ -1,0 +1,11 @@
+.kakaoMap {
+    width: 100%;
+    height: 700px;
+}
+
+.customOverlay {
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 5px;
+    border-radius: 5px;
+}
